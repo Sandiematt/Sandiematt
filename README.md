@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Developer;Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
@@ -79,7 +79,7 @@ Aspiring Software Developer with a passion for creating efficient and user-frien
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandiematt&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sandiematt&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
