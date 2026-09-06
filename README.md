@@ -1,4 +1,9 @@
-# 👋 Hello World! I'm Sandiematt 
+# 👋 Hello World! I'm Sandiematt
+
+<div align="center">
+  <a href="https://sandiematt.m3bionix.com">🌐 Portfolio</a>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
@@ -10,12 +15,13 @@
 ## 💫 About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Aspiring Software Developer with a passion for creating efficient and user-friendly applications. Committed to
-enhancing software solutions through innovative programming, troubleshooting complex issues, and ensuring
-seamless system operations. Proven experience in delivering software projects from concept to completion, coupled
-with strong web and app design skills.
+Aspiring Software Developer with a passion for creating efficient and user-friendly applications. Committed to enhancing software solutions through innovative programming, troubleshooting complex issues, and ensuring seamless system operations. Proven experience in delivering software projects from concept to completion, coupled with strong web and app design skills.
 
-<br>
+- 🌐 **Portfolio:** [sandiematt.m3bionix.com](https://sandiematt.m3bionix.com)
+- 🌱 Currently exploring new frameworks and sharpening full-stack skills
+- 💬 Ask me about web/app development, ML basics, or database design
+
+<br clear="right"/>
 
 ## 🚀 Tech Stack
 
@@ -36,6 +42,7 @@ with strong web and app design skills.
 
 ### Frameworks & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </p>
@@ -61,7 +68,7 @@ with strong web and app design skills.
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 </p>
 
