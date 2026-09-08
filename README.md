@@ -1,10 +1,6 @@
 # 👋 Hello World! I'm Sandiematt
 
 <div align="center">
-  <a href="https://sandiematt.m3bionix.com">🌐 Portfolio</a>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Developer;Full+Stack+Developer;Problem+Solver;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
