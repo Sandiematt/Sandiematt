@@ -13,7 +13,7 @@
 
 Aspiring Software Developer with a passion for creating efficient and user-friendly applications. Committed to enhancing software solutions through innovative programming, troubleshooting complex issues, and ensuring seamless system operations. Proven experience in delivering software projects from concept to completion, coupled with strong web and app design skills.
 
-- 🌐 **Portfolio:** [sandiematt.m3bionix.com](https://sandiematt.com)
+- 🌐 **Portfolio:** [sandiematt.com](https://sandiematt.com)
 - 🌱 Currently exploring new frameworks and sharpening full-stack skills
 - 💬 Ask me about web/app development, ML basics, or database design
 
